@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science is most often used in industries that leverage data-driven insights to make their operations more efficient and improve the customer experience. These include healthcare, e-commerce and fintech.
