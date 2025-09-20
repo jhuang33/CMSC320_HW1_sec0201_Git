@@ -4,3 +4,7 @@ Answer: Git offers a repository/storage for personal/business projects and code.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science is most often used in industries that leverage data-driven insights to make their operations more efficient and improve the customer experience. These include healthcare, e-commerce and fintech.
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: If you would prefer a clean, linear history free of unnecessary merge commits, you should reach for git rebase instead of git merge when integrating changes from another branch.
+On the other hand, if you want to preserve the complete history of your project and avoid the risk of re-writing public commits, you can stick with git merge. Either option is perfectly valid, but at least now you have the option of leveraging the benefits of git rebase.
